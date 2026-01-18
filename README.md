@@ -63,16 +63,6 @@ A sleek, professional personal resume website built entirely with pure HTML and 
 └── 📄 .gitignore              # Git ignore rules
 ```
 
-## 📸 Screenshots
-
-### Desktop View
-![Desktop Screenshot](https://via.placeholder.com/800x400/1f6f78/ffffff?text=Resume+Desktop+View)
-
-### Mobile View
-![Mobile Screenshot](https://via.placeholder.com/300x600/1f6f78/ffffff?text=Resume+Mobile+View)
-
-*Note: Replace placeholder images with actual screenshots of your resume website.*
-
 ## 🔧 Setup & Usage
 
 ### Prerequisites
