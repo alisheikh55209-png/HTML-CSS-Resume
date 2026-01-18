@@ -69,33 +69,6 @@ A sleek, professional personal resume website built entirely with pure HTML and 
 - Any modern web browser (Chrome, Firefox, Safari, Edge)
 - No additional software required
 
-### Local Development
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/alisheikh55209-png/HTML-CSS-Resume.git
-   cd HTML-CSS-Resume
-   ```
-
-2. **Open in browser**
-   - Double-click `index.html` or
-   - Right-click `index.html` → Open with → Your browser
-
-3. **No dependencies needed** - Works immediately!
-
-## 🚀 GitHub Pages Deployment
-
-### Automatic Deployment
-1. Fork this repository
-2. Go to **Settings** → **Pages**
-3. Under **Source**, select **Deploy from a branch**
-4. Choose **main** branch and **/(root)** folder
-5. Click **Save** - Your site will be live at `https://[username].github.io/HTML-CSS-Resume/`
-
-### Manual Deployment
-1. Push your changes to GitHub
-2. Enable GitHub Pages as described above
-3. Wait 2-3 minutes for deployment
-
 ## 🤝 Contributing
 
 Contributions are welcome! Here's how you can help:
@@ -105,12 +78,6 @@ Contributions are welcome! Here's how you can help:
 3. **Commit** your changes (`git commit -m 'Add amazing feature'`)
 4. **Push** to the branch (`git push origin feature/amazing-feature`)
 5. **Open** a Pull Request
-
-### Guidelines
-- Maintain the clean, professional design aesthetic
-- Ensure responsiveness across all devices
-- Test changes in multiple browsers
-- Follow HTML/CSS best practices
 
 ## 📄 License
 
