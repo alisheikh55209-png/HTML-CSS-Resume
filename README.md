@@ -92,7 +92,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 🏛️ University of Lahore  
 
 ### 📬 Contact Information
-- **Email**: [70151489@student.uol.edu.pk](mailto:70151489@student.uol.edu.pk)
+- **Email**: [ali.sheikh.dev@gmail.com](mailto:70151489@student.uol.edu.pk)
 - **Phone**: +92 329 7939147
 - **Location**: Lahore, Pakistan
 - **GitHub**: [alisheikh55209-png](https://github.com/alisheikh55209-png)
