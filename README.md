@@ -80,7 +80,7 @@ HTML CSS Resume
 
 3. **No dependencies needed** - Works immediately!
 
-## GitHub Pages Deployment
+## 🚀 GitHub Pages Deployment
 
 ### Automatic Deployment
 1. Fork this repository
@@ -103,12 +103,6 @@ Contributions are welcome! Here's how you can help:
 3. **Commit** your changes (`git commit -m 'Add amazing feature'`)
 4. **Push** to the branch (`git push origin feature/amazing-feature`)
 5. **Open** a Pull Request
-
-### Guidelines
-- Maintain the clean, professional design aesthetic
-- Ensure responsiveness across all devices
-- Test changes in multiple browsers
-- Follow HTML/CSS best practices
 
 ## License
 
