@@ -109,3 +109,20 @@ Contributions are welcome! Here's how you can help:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+## 👨‍💻 Author
+
+**Muhammad Ali Sheikh**  
+🎓 BS Information Engineering Technology Student  
+🏛️ University of Lahore  
+
+### 📬 Contact Information
+- **Email**: [70151489@student.uol.edu.pk](mailto:70151489@student.uol.edu.pk)
+- **Phone**: +92 329 7939147
+- **Location**: Lahore, Pakistan
+- **GitHub**: [alisheikh55209-png](https://github.com/alisheikh55209-png)
+
+---
+
+⭐ **Star this repo** if you find it helpful!  
+🔗 **Live Demo**: [https://alisheikh55209-png.github.io/HTML-CSS-Resume/](https://alisheikh55209-png.github.io/HTML-CSS-Resume/)
